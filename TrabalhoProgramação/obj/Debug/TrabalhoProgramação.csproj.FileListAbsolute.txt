@@ -1,0 +1,22 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\bin\Debug\TrabalhoProgramação.exe.config
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\bin\Debug\TrabalhoProgramação.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\bin\Debug\TrabalhoProgramação.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.Form1.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.Form2.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.Properties.Resources.resources
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.pdb
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\bin\Debug\TrabalhoProgramação.exe.config
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\bin\Debug\TrabalhoProgramação.exe
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\bin\Debug\TrabalhoProgramação.pdb
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.csproj.AssemblyReference.cache
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.Form1.resources
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.Form2.resources
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.Properties.Resources.resources
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.csproj.GenerateResource.cache
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.csproj.CoreCompileInputs.cache
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.exe
+C:\Users\joaoeleuterio\Desktop\TrabalhoProgramação\TrabalhoProgramação\TrabalhoProgramação\obj\Debug\TrabalhoProgramação.pdb
